@@ -1,2 +1,2 @@
 # Nukatron-DDOS
-DDos tool
+Thanks for using ** Nukatron **
